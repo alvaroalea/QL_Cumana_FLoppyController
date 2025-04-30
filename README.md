@@ -16,7 +16,8 @@ It use a WD1770 disc controller, and is expected that will be compatible with WD
 
 Thanks to Max from retrowiki for providing me with a board so I can take pictures and check tracks  that allow me to capture the schema.
 
+![My image](ql_Cumana_F.png)
+
 ![My image](ql_Cumana_B.png)
 
-![My image](ql_Cumana_F.png)
 
