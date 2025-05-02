@@ -14056,7 +14056,6 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 255 153 0 1)
 		)
 		(uuid "2dd3fead-c221-419c-bd0a-db596acdd529")
 	)
@@ -18081,7 +18080,6 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 255 153 0 1)
 		)
 		(uuid "f1b6a4a1-5b85-4f89-88e2-ae320078c96f")
 	)
@@ -23666,19 +23664,19 @@
 		(dnp no)
 		(uuid "5392f9d5-d390-414a-b27f-c97dd3aedaf2")
 		(property "Reference" "C12"
-			(at 127 261.62 0)
+			(at 127.254 262.89 0)
 			(effects
 				(font
-					(size 1.778 1.5113)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
 		)
 		(property "Value" "100n"
-			(at 128.27 265.43 0)
+			(at 126.746 266.446 0)
 			(effects
 				(font
-					(size 1.778 1.5113)
+					(size 1.27 1.27)
 				)
 				(justify left bottom)
 			)
@@ -26777,7 +26775,7 @@
 		(dnp no)
 		(uuid "b2115592-de52-4e9f-9db1-ca84d0bb5c2a")
 		(property "Reference" "C5"
-			(at 124.46 271.78 0)
+			(at 123.444 273.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29112,46 +29110,46 @@
 			)
 		)
 		(pin "9"
-			(uuid "3070ccd8-6765-4d9c-abbe-4eb6eab581e9")
+			(uuid "3070ccd8-6765-4d9c-abbe-4eb6eab581f1")
 		)
 		(pin "12"
-			(uuid "e514a7ba-5232-4dd8-94c9-c15299421dc0")
+			(uuid "e514a7ba-5232-4dd8-94c9-c15299421dc8")
 		)
 		(pin "10"
-			(uuid "7a7c278f-e916-4ea2-bd07-609313abc8ba")
+			(uuid "7a7c278f-e916-4ea2-bd07-609313abc8c2")
 		)
 		(pin "11"
-			(uuid "97911cd1-5ba7-4167-a5ca-472748ba16ed")
+			(uuid "97911cd1-5ba7-4167-a5ca-472748ba16f5")
 		)
 		(pin "6"
-			(uuid "1a1d5683-4a19-4d4c-aca5-24bab8acb4c9")
+			(uuid "1a1d5683-4a19-4d4c-aca5-24bab8acb4d1")
 		)
 		(pin "14"
-			(uuid "1eaf3648-3617-4fb2-989a-525a00611e43")
+			(uuid "1eaf3648-3617-4fb2-989a-525a00611e4b")
 		)
 		(pin "13"
-			(uuid "139c5848-9837-4576-8e45-ca1dd00b2cb1")
+			(uuid "139c5848-9837-4576-8e45-ca1dd00b2cb9")
 		)
 		(pin "4"
 			(uuid "469951cc-b8d2-4538-8875-3b032a954c4b")
 		)
 		(pin "5"
-			(uuid "dfc59281-f0dc-4670-8d5e-0d49ecb20e7e")
+			(uuid "dfc59281-f0dc-4670-8d5e-0d49ecb20e86")
 		)
 		(pin "8"
-			(uuid "600d0e5c-fef4-4678-b963-d34cf1b6d681")
+			(uuid "600d0e5c-fef4-4678-b963-d34cf1b6d689")
 		)
 		(pin "3"
 			(uuid "b0bf0629-154c-4f0b-bfda-ece2f2000f7a")
 		)
 		(pin "2"
-			(uuid "26d914c4-2cac-4ee6-a525-ae78ee5bf967")
+			(uuid "26d914c4-2cac-4ee6-a525-ae78ee5bf969")
 		)
 		(pin "1"
-			(uuid "2dc58020-d04c-4e88-8466-c8697c4fb43f")
+			(uuid "2dc58020-d04c-4e88-8466-c8697c4fb441")
 		)
 		(pin "7"
-			(uuid "8e86cf66-1c91-4583-bd76-cd80dc8769d3")
+			(uuid "8e86cf66-1c91-4583-bd76-cd80dc8769db")
 		)
 		(instances
 			(project "ql_Cumana"
