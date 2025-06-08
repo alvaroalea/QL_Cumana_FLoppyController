@@ -20142,7 +20142,7 @@
 				)
 			)
 		)
-		(property "Value" "74LS16"
+		(property "Value" "74LS06"
 			(at 293.37 78.105 0)
 			(effects
 				(font
@@ -20548,7 +20548,7 @@
 				)
 			)
 		)
-		(property "Value" "74LS16"
+		(property "Value" "74LS06"
 			(at 267.97 139.065 0)
 			(effects
 				(font
@@ -21342,7 +21342,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "LS00"
+		(property "Value" "74LS00"
 			(at 43.18 210.82 0)
 			(effects
 				(font
@@ -22081,7 +22081,7 @@
 				)
 			)
 		)
-		(property "Value" "74LS16"
+		(property "Value" "74LS06"
 			(at 267.97 109.22 0)
 			(effects
 				(font
@@ -22254,7 +22254,7 @@
 				)
 			)
 		)
-		(property "Value" "LS00"
+		(property "Value" "74LS00"
 			(at 247.65 188.595 0)
 			(effects
 				(font
@@ -22357,7 +22357,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "LS04"
+		(property "Value" "74LS04"
 			(at 321.31 193.04 0)
 			(effects
 				(font
@@ -22462,7 +22462,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "BC2369"
+		(property "Value" "2N2369"
 			(at 102.87 184.1499 0)
 			(effects
 				(font
@@ -22992,7 +22992,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "LS04"
+		(property "Value" "74LS04"
 			(at 285.75 257.81 0)
 			(effects
 				(font
@@ -23366,7 +23366,7 @@
 				)
 			)
 		)
-		(property "Value" "3K7"
+		(property "Value" "4K7"
 			(at 344.678 204.724 90)
 			(effects
 				(font
@@ -23557,7 +23557,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "LS04"
+		(property "Value" "74LS04"
 			(at 176.53 266.7 0)
 			(effects
 				(font
@@ -23800,7 +23800,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "LS04"
+		(property "Value" "74LS04"
 			(at 125.73 97.79 0)
 			(effects
 				(font
@@ -24656,7 +24656,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "LS04"
+		(property "Value" "74LS04"
 			(at 285.75 280.67 0)
 			(effects
 				(font
@@ -24896,7 +24896,7 @@
 				)
 			)
 		)
-		(property "Value" "74LS16"
+		(property "Value" "74LS06"
 			(at 280.67 116.84 0)
 			(effects
 				(font
@@ -25429,7 +25429,7 @@
 				)
 			)
 		)
-		(property "Value" "74LS16"
+		(property "Value" "74LS06"
 			(at 267.97 124.46 0)
 			(effects
 				(font
@@ -25768,7 +25768,7 @@
 				)
 			)
 		)
-		(property "Value" "74LS16"
+		(property "Value" "74LS06"
 			(at 280.67 132.715 0)
 			(effects
 				(font
@@ -25975,7 +25975,7 @@
 				)
 			)
 		)
-		(property "Value" "74LS16"
+		(property "Value" "74LS06"
 			(at 281.94 69.85 0)
 			(effects
 				(font
@@ -26159,7 +26159,7 @@
 				)
 			)
 		)
-		(property "Value" "74LS16"
+		(property "Value" "74LS06"
 			(at 280.67 101.6 0)
 			(effects
 				(font
@@ -26501,7 +26501,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "74LS16"
+		(property "Value" "74LS06"
 			(at 201.295 265.43 0)
 			(effects
 				(font
@@ -26605,7 +26605,7 @@
 				)
 			)
 		)
-		(property "Value" "LS00"
+		(property "Value" "74LS00"
 			(at 247.65 206.375 0)
 			(effects
 				(font
@@ -26977,7 +26977,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "74LS16"
+		(property "Value" "74LS06"
 			(at 215.265 265.43 0)
 			(effects
 				(font
@@ -27190,7 +27190,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "LS04"
+		(property "Value" "74LS04"
 			(at 285.75 269.24 0)
 			(effects
 				(font
@@ -27398,7 +27398,7 @@
 				)
 			)
 		)
-		(property "Value" "LS00"
+		(property "Value" "74LS00"
 			(at 135.89 214.63 0)
 			(effects
 				(font
@@ -27634,7 +27634,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "LS04"
+		(property "Value" "74LS04"
 			(at 350.52 193.04 0)
 			(effects
 				(font
@@ -28208,7 +28208,7 @@
 				)
 			)
 		)
-		(property "Value" "74LS16"
+		(property "Value" "74LS06"
 			(at 212.09 229.87 0)
 			(effects
 				(font
@@ -28311,7 +28311,7 @@
 				)
 			)
 		)
-		(property "Value" "74LS16"
+		(property "Value" "74LS06"
 			(at 281.94 85.725 0)
 			(effects
 				(font
@@ -28414,7 +28414,7 @@
 				)
 			)
 		)
-		(property "Value" "74LS16"
+		(property "Value" "74LS06"
 			(at 283.21 234.95 0)
 			(effects
 				(font
@@ -28828,7 +28828,7 @@
 				)
 			)
 		)
-		(property "Value" "LS00"
+		(property "Value" "74LS00"
 			(at 191.77 265.43 0)
 			(effects
 				(font
@@ -29065,7 +29065,7 @@
 				)
 			)
 		)
-		(property "Value" "74LS16"
+		(property "Value" "74LS06"
 			(at 293.37 60.96 0)
 			(effects
 				(font
