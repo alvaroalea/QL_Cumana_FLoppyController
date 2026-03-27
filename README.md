@@ -3,7 +3,7 @@
 A clone of the Cumana's Floppy Disk Interface for Sinclair QL
 (PCB issue 1, ROM version 1.14)
 
-# WARNING: This board has not been tested.
+This board has been suessfully tested with ROM 1.16, real floppy disc and gotek.
 
 ### The Board
 
@@ -11,7 +11,7 @@ There are two knows version of the ROM, 1.14 and 1.16. unknow diferences between
 
 It use the standar stugart conector, so a plain cable can have up to 4 disk drives, that shall be correctly configured as DS0, DS1, DS2 or DS3.
 
-It use a WD1770 disc controller, and is expected that will be compatible with WD1772 (not checked), WD1773 is not compatible.
+It use a WD1770 disc controller, but is compatible with WD1772 (you can need to configure start speed), WD1773 is not compatible.
 
 Be aware, when install the transistor, is C,B,E with C near the 7805.
 

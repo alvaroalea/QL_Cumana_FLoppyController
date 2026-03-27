@@ -21935,7 +21935,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "FDC_WD1772"
+		(property "Value" "FDC_WD1770"
 			(at 232.41 59.69 0)
 			(effects
 				(font
